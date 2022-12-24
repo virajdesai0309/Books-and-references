@@ -4,8 +4,11 @@ A piping and instrumentation diagram (P&ID) is a detailed engineering diagram in
 What does it contain?
 
 Mechanical Equipment,
+
 Process Piping Sizes and Indication, 
-Process Controls and Instrumentation, 
+
+Process Controls and Instrumentation,
+
 Interface of class change, Control Systems, etc.
 
 How to read it?
